@@ -1,5 +1,6 @@
 # spotDraft-qa
 Automation assignment - The result of a test run has been added myreport.html
+
 The CHROME_EXECUTABLE_PATH under config/config.py needs to be changed to run the automation script
 
 To run the automation script:
