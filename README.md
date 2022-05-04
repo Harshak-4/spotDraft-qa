@@ -1,0 +1,2 @@
+# spotDraft-qa
+Automation assignment 
